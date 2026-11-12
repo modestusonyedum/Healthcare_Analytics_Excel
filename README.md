@@ -62,7 +62,7 @@ _______________________________________________________________________________
 <br>
 <br>
 
-![](Visuals/Operations.png)
+![](Visuals/Operations1.png)
 <br>
 <br>
 **Key Metrics**
