@@ -65,34 +65,14 @@ _______________________________________________________________________________
 ![](Visuals/Operations1.png)
 <br>
 <br>
-**Key Metrics**
-- Total Claims Submitted: 1902
-- Approval Rate: 85%
-- Total Revenue At Risk: 1,677,8
-- Average Processing Days: 7 Days
-  
 
-**Finance Analytics**
+**Operation and Claim Analytics**
 - What is the percentage of Inpatient and Outpatient?
-- - How does length of stay affect patient satisfaction?
+- How does length of stay affect patient satisfaction?
 - Which specialties and branches have the highest denial rates?
 
-- Which payers balance a high approval rate with fast processing?
-- Which specialties and branches have the highest denial rates?
 
 **Key Insights**
 ## ADD INSIGHTS
 ____________________________________________________________________________
-**Key Metrics**
-- Total Beds: 300
-- Total ICU Beds: 45
-- Average Revenue Per Visit: 5,792
-- Average Length Of Stay: 5 Days
 
-## Operations Analytics
-- How do patient volumes compare across the five branches?
-- How do admission types and length of stay vary by specialty?
-- How does length of stay affect patient satisfaction?
-
-**Key Insights**
-## ADD INSIGHTS
