@@ -2,10 +2,7 @@
 
 MyLifeCare UK Hospital Group is a multi-branch healthcare provider operating across five major English cities: London, Manchester, Birmingham, Leeds and Bristol. It delivers inpatient and outpatient care across six specialties: Cardiology, Oncology, Neurology, Orthopaedics, General Surgery and Paediatrics.
 <br>
-<br>
-![](Visuals/KPI1.png)
-![](Visuals/KPI2.png)
-<br>
+
 # Business Problem
 MyLifeCare UK Hospital Group has two years of operational and financial data across five branches, but it sits in multiple uncleaned sheets and has never been integrated into a form leadership can use. The group handles a high volume of inpatient and outpatient visits across six specialties, funded by a mix of NHS and private insurance. Even so, it has no clear view of billing accuracy, revenue performance, payer efficiency, financial risk or operational strain at branch level. Without a centralised performance monitoring system, leadership relies on manual reports that cannot answer key management questions quickly or reliably. As a result, decision-makers cannot see how the group is actually performing, or where the revenue and payer risks are, when fast and trustworthy insight matters most.
 
