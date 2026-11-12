@@ -24,13 +24,7 @@ The dataset used in this project was a simulated healthcare dataset structured a
 
 
 ## Tools and Technology
-
-- **Excel:** Used for Preparation and Cleaning
-- **Power BI Desktop:**	Data modeling, dashboard creation
-- **Power Query:**	Data transformation and cleaning
-- **DAX:**	Business logic and KPIs
-- **Star Schema:** Modeling	Scalable, optimized data architecture
-- **Power BI Service:**	For live publishing, sharing, and cloud-based report consumption
+Microsoft Excel
 
 
 # Analytical Approach
