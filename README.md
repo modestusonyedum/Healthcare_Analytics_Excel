@@ -59,8 +59,12 @@ The dashboard is structured into three key analytical layers, each designed to a
 - £1.68M is at risk in total. Cardiology (35%) and Neurology (30%) account for 65% of it.
 - London Central holds about 70% (£1.18M), far above every other branch. Bristol South is lowest at £58K.
 
-# ADD RECOMMENDATION
-_______________________________________________________________________________
+**Recommendation**
+
+- Investigate the March, autumn and December dips, and plan capacity and targets around the July and November peaks.
+- Prioritise recovery in Cardiology and Neurology, which hold 65% of the at-risk revenue.
+- Review London Central’s claims and billing process, since it holds about 70% of at risk revenue.
+
 <br>
 <br>
 
@@ -81,6 +85,10 @@ _______________________________________________________________________________
 Paediatrics is high at every branch (12–19%). <br>
 Leeds General has 0% denials in three specialties, and General Surgery is at 0% in three branches.
 
-# ADD RECOMMENDATION
-____________________________________________________________________________
+**Recommendation**
+
+- Streamline outpatient scheduling and billing while managing inpatient bed capacity so stays don’t delay collections.
+- Improve discharge planning for stays over 6 days, where satisfaction appears lowest.
+- Analyse denial reasons at London Central and in Paediatrics, and copy the practices of Leeds General’s 0% denial specialties.
+
 
