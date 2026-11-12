@@ -33,21 +33,56 @@ The dataset used in this project was a simulated healthcare dataset structured a
 - **Power BI Service:**	For live publishing, sharing, and cloud-based report consumption
 
 
-## Key Business Questions
+# Analytical Approach
 
-The project was built to address the following business objectives:
+The dashboard is structured into three key analytical layers, each designed to answer specific operational and strategic questions within the hospital.
 
-## Executive
+
+**Analysis Performed**
+
+
+**Key Metrics**
+- Total Revenue: 11,583,649
+- % of Revenue At Risk: 13%
+- Collection Efficiency: 87%
+- Average Length of Stay: 5 Days
+
+
+**Executive Analytics**
 - What’s the realized revenue, and how does it trend over time?
 - What the revenue at risk by Specialty?
 - What is the percentage of Inpatient and Outpatient?
 
-## Financial
+  
+**Key Insights**
+## ADD INSIGHTS
+_______________________________________________________________________________
+
+**Key Metrics**
+- Total Claims Submitted: 1902
+- Approval Rate: 85%
+- Total Revenue At Risk: 1,677,8
+- Average Processing Days: 7 Days
+  
+
+**Finance Analytics**
 - What are the claim approval and denial rates?
 - Which payers balance a high approval rate with fast processing?
 - Which specialties and branches have the highest denial rates?
 
-## Operations
+**Key Insights**
+## ADD INSIGHTS
+____________________________________________________________________________
+**Key Metrics**
+- Total Beds: 300
+- Total ICU Beds: 45
+- Average Revenue Per Visit: 5,792
+- Average Length Of Stay: 5 Days
+
+## Operations Analytics
 - How do patient volumes compare across the five branches?
 - How do admission types and length of stay vary by specialty?
 - How does length of stay affect patient satisfaction?
+
+**Key Insights**
+## ADD INSIGHTS
