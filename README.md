@@ -77,8 +77,8 @@ _______________________________________________________________________________
 **Key Insights**
 - Outpatients are 55% and inpatients 45%, so the mix is fairly balanced with a slight outpatient lean.
 - Satisfaction appears lowest for stays over 6 days and higher for shorter stays.
-- London Central is highest, with Orthopaedics at 22% and Cardiology at 21%. It is also the branch with the most revenue at risk.
-Paediatrics is high at every branch (12–19%).
+- London Central is highest, with Orthopaedics at 22% and Cardiology at 21%. It is also the branch with the most revenue at risk.<br>
+Paediatrics is high at every branch (12–19%). <br>
 Leeds General has 0% denials in three specialties, and General Surgery is at 0% in three branches.
 
 # ADD RECOMMENDATION
