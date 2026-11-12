@@ -1,8 +1,11 @@
 # Overview
 
 MyLifeCare UK Hospital Group is a multi-branch healthcare provider operating across five major English cities: London, Manchester, Birmingham, Leeds and Bristol. It delivers inpatient and outpatient care across six specialties: Cardiology, Oncology, Neurology, Orthopaedics, General Surgery and Paediatrics.
-
-
+<br>
+<br>
+![](Visuals/KPI1.png)
+![](Visuals/KPI2.png)
+<br>
 # Business Problem
 MyLifeCare UK Hospital Group has two years of operational and financial data across five branches, but it sits in multiple uncleaned sheets and has never been integrated into a form leadership can use. The group handles a high volume of inpatient and outpatient visits across six specialties, funded by a mix of NHS and private insurance. Even so, it has no clear view of billing accuracy, revenue performance, payer efficiency, financial risk or operational strain at branch level. Without a centralised performance monitoring system, leadership relies on manual reports that cannot answer key management questions quickly or reliably. As a result, decision-makers cannot see how the group is actually performing, or where the revenue and payer risks are, when fast and trustworthy insight matters most.
 
@@ -40,24 +43,28 @@ The dashboard is structured into three key analytical layers, each designed to a
 
 **Analysis Performed**
 
+<br>
+<br>
 
-**Key Metrics**
-- Total Revenue: 11,583,649
-- % of Revenue At Risk: 13%
-- Collection Efficiency: 87%
-- Average Length of Stay: 5 Days
+![](Visuals/Executive.png)
+<br>
+<br>
 
 
 **Executive Analytics**
 - What’s the realized revenue, and how does it trend over time?
-- What the revenue at risk by Specialty?
-- What is the percentage of Inpatient and Outpatient?
+- What the revenue at risk by Specialty and Branch?
 
   
 **Key Insights**
 ## ADD INSIGHTS
 _______________________________________________________________________________
+<br>
+<br>
 
+![](Visuals/Operations.png)
+<br>
+<br>
 **Key Metrics**
 - Total Claims Submitted: 1902
 - Approval Rate: 85%
@@ -66,7 +73,10 @@ _______________________________________________________________________________
   
 
 **Finance Analytics**
-- What are the claim approval and denial rates?
+- What is the percentage of Inpatient and Outpatient?
+- - How does length of stay affect patient satisfaction?
+- Which specialties and branches have the highest denial rates?
+
 - Which payers balance a high approval rate with fast processing?
 - Which specialties and branches have the highest denial rates?
 
