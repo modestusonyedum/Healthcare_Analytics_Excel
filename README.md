@@ -10,6 +10,18 @@ MyLifeCare UK Hospital Group has two years of operational and financial data acr
 
 The objective is to to clean, transform and structure the dataset, then build PivotTables that summarise financial, operational and payer performance. This includes calculated fields for indicators such as approval rate and revenue at risk. The results will be presented as dashboard visuals with interactive slicers, forming an executive-ready dashboard.
 
+## Datasource
+
+The dataset used in this project was a simulated healthcare dataset structured around a hospital scenario. It reflects real-world data patterns and includes details on:
+- Patient demographics and visit history
+- Admission and appointment status
+- Departmental allocation and doctor assignments
+- Treatment types, diagnoses, and outcomes
+- Readmission flags and visit duration metrics
+
+> [!WARNING]
+> Note: This dataset is fictional and intended for portfolio purposes only. No real customer data is used.
+
 ## Key Business Questions
 
 The project was built to address the following business objectives:
