@@ -54,7 +54,12 @@ The dashboard is structured into three key analytical layers, each designed to a
 
   
 **Key Insights**
-## ADD INSIGHTS
+- Total realized revenue is £11,58M, averaging about £965K a month.
+- It peaked in July (£1.11M) and November (£1.10M), dipped to £806K in March, and fell to £870K in December.
+- £1.68M is at risk in total. Cardiology (35%) and Neurology (30%) account for 65% of it.
+- London Central holds about 70% (£1.18M), far above every other branch. Bristol South is lowest at £58K.
+
+# ADD RECOMMENDATION
 _______________________________________________________________________________
 <br>
 <br>
@@ -70,6 +75,12 @@ _______________________________________________________________________________
 
 
 **Key Insights**
-## ADD INSIGHTS
+- Outpatients are 55% and inpatients 45%, so the mix is fairly balanced with a slight outpatient lean.
+- Satisfaction appears lowest for stays over 6 days and higher for shorter stays.
+- London Central is highest, with Orthopaedics at 22% and Cardiology at 21%. It is also the branch with the most revenue at risk.
+Paediatrics is high at every branch (12–19%).
+Leeds General has 0% denials in three specialties, and General Surgery is at 0% in three branches.
+
+# ADD RECOMMENDATION
 ____________________________________________________________________________
 
