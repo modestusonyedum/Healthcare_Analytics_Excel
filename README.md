@@ -22,6 +22,15 @@ The dataset used in this project was a simulated healthcare dataset structured a
 > [!WARNING]
 > Note: This dataset is fictional and intended for portfolio purposes only. No real customer data is used.
 
+## Tools and Technology
+- **Excel:** Used for Preparation and Cleaning
+- **Power BI Desktop:**	Data modeling, dashboard creation
+- **Power Query:**	Data transformation and cleaning
+- **DAX:**	Business logic and KPIs
+- **Star Schema:** Modeling	Scalable, optimized data architecture
+- **Power BI Service:**	For live publishing, sharing, and cloud-based report consumption
+
+
 ## Key Business Questions
 
 The project was built to address the following business objectives:
